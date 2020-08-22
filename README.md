@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=the-vagabond-programmer&show_icons=true&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-vagabond-programmer&show_icons=true&hide_border=true)
+
 ### Find me at
 
 <a href="https://www.linkedin.com/in/sambeg-shrestha-70b232154/">
