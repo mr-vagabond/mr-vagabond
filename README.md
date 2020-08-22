@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌐 Trying to enter the **web-dev** scene through *Node.js* and *Django*
 - 🦸 Highly interested in *Mobile* development.
 
-![](https://github-readme-stats.vercel.app/api?username=sthasam2&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=the-vagabond-programmer&show_icons=true&hide_border=true)
 
 ### Find me at
 
