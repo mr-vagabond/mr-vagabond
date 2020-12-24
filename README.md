@@ -1,5 +1,5 @@
 # Sambeg Shrestha 
-[![HitCount](http://hits.dwyl.com/sthasam2.svg)](http://hits.dwyl.com/sthasam2)
+[![HitCount](http://hits.dwyl.com/sthasam2.svg)](http://hits.dwyl.com/mr-vagabond)
 
 ## 👋 Howdy!
 
@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🌐 Trying to enter the **web-dev** scene through *Node.js* and *Django*
 - 🦸 Highly interested in *Mobile* development.
 
-![](https://github-readme-stats.vercel.app/api?username=the-vagabond-programmer&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mr-vagabond&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-vagabond-programmer&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vagabond&show_icons=true&hide_border=true)
 
 ### Find me at
 
